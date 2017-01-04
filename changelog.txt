@@ -1,0 +1,52 @@
+v 1.00
+======
+- popisky uzlù se ukazují pouze, pokud je vidìt ménì než 200 uzlù
+- server side fps counter
+- zobrazení základních informací o grafu
+- zobrazení poètu viditelných prvkù
+- umožnìno uznaèování uzlù levým tlaèítkem myši (klik do prázdna zruší oznaèení)
+- grafem lze nyní pohybovat pouze pravým tlaèítkem myši
+- hrany grafu jsou vykreslovány pouze, pokud jich je vidno ménì než 5000
+
+v 1.01
+======
+- informaèní panel je podkreslen prùhledným pozadím
+- po oznaèení uzlu se zvýrazní i jeho pøímí sousedé
+- po oznaèení uzlu se zobrazí popisky oznaèeného uzlu a jeho pøímých sousedù
+- po oznaèení uzlu se nezvýraznìné uzly vykreslují prùhlednì
+- popisky uzlù se vykreslují ve vyšší vrstvì, než ostatní elementy
+- popisky uzlù se ukazují pouze, pokud je vidìt ménì než 100 uzlù
+
+v 1.02
+======
+- pohybování s grafem zmìnìno zpìt na držení levého tlaèítka myši
+- oznaèování bodù zmìnìno ze stisknutí levého tlaèítka myši na upuštìní levého tlaèítka myši
+
+v 1.03
+======
+- oznaèený uzel zachová svoji pùvodní barvu
+- sousedé oznaèeného uzlu zachovají svoji pùvodní barvu
+- hrany mezi oznaèeným uzlem a jeho sousedy zachovají svoji pùvodní barvu
+- GUI panel zobrazuje verzi aplikace
+- GUI panel zobrazuje popisek oznaèeného uzlu
+- uzly velikosti vìtší než 5 mají v grafu zobrazen popisek vždy
+- maximální množství vykreslovaných barevných hran sníženo na 4000
+- maximální množství vykreslovaných šedých hran zvýšeno na 6000
+
+v 1.04
+======
+- do kontextového menu pøidán slider pro regulaci zobrazených popiskù v závislosti na velikosti uzlu
+
+
+v 1.05
+======
+- pøidány ovládací prvky pro regulaci zobrazovaných hran v závislosti na jejich velikosti
+- pøidány ovládací prvky pro regulaci zobrazovaných uzlù v závislosti na jejich velikosti
+- regulaèní parametry jsou zobrazovány v informaèním panelu
+
+
+v 1.06
+======
+- pøidána možnost vypínání/zapínání barevného režimu
+- normalizovány velikosti hran a vrcholù
+- pøidána možnost zmìny normalizaèního multiplikátoru velikosti vykreslovaných hran i vrcholù

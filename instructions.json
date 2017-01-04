@@ -1,0 +1,17 @@
+{
+	"main_script": "graphs.js",
+	"icon": "",
+	"width": 1920,
+	"height": 1080,
+	"animation": false,
+	"load": {
+	},
+	"dependencies": [
+	],
+	"title": "Graphs",
+	"version": "1.0.0",
+	"description": "Graphs from gephi.",
+	"keywords": [ "gephi", "graph"],
+	"author": "Jiri Kares",
+	"license": "SAGE2-Software-License"
+}
